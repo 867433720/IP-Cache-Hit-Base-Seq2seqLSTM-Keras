@@ -1,5 +1,5 @@
 # Neural-Machine-Translation-using-Keras
-This is the sequential Encoder-Decoder implementation of Neural Machine Translation using Keras. This model translates the input German sentence into the corresponding English sentence with a **Bleu Score: 0.509124** on the test set.
+This is the sequential Encoder-Decoder implementation of Neural Machine Translation using Keras. This model translates the input IP sequence into predict IP sequence.
 
 **Encoder** - Represents the input text corpus (Routing IP record ) in the form of embedding vectors and trains the model.
 
